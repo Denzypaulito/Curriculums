@@ -1,14 +1,17 @@
 {
     "nombreCompleto": "Juan Antonio Díaz Fernández",
-    "biografia": "Soy un universitario estudiante de la Universidad Autónoma de Chihuahua. Apasionado por la programación y el desarrollo de software. Siempre en busca de nuevos desafíos y oportunidades para crecer en el campo de la tecnología.",
+    "biografia": "Mi objetivo es utilizar mis habilidades técnicas y mi experiencia para diseñar y desarrollar soluciones de software innovadoras que puedan automatizar y optimizar los procesos comerciales. Mi objetivo es trabajar en proyectos desafiantes que involucren desarrollo web, inteligencia artificial, aprendizaje automático y procesamiento de lenguaje natural, lo que me permitirá utilizar mi conocimiento de programación y creatividad para construir sistemas inteligentes que puedan mejorar la forma en que las personas interactúan con la tecnología.",
     "educacion": [
-      "Universidad Autónoma de Chihuahua"
+      "Universidad Autónoma de Chihuahua",
+      "Colegio de Bachilleres del Estado de Chihuahua Plantel 20"
     ],
     "habilidades": [
       "Programación",
       "Python",
-      "C#",
-      "Desarrollo web",
-      "Desarrollo en plataformas de realidad virtual"
+      "Bash",
+      "Javascript",
+      "Desarrollo en plataformas de realidad virtual",
+      "Linux",
+      "Windows"
     ]
   }
